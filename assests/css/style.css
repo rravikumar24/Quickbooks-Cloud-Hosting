@@ -1,0 +1,11 @@
+
+.brandLogo img{
+ max-width: 150px;
+ max-height: 150px;
+}
+
+.unborderDiv{
+    background-color: transparent !important;
+    border: none;
+    padding: 0 20px;
+}
